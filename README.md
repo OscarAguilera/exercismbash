@@ -1,0 +1,2 @@
+# exercismbash
+Bash Repo exercises
